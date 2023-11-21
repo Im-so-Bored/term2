@@ -1,0 +1,302 @@
+Club_Code,Last_Name,First_Name,Bib_No,YOB,LPF_Ratio,Race_Time,Category,Year_Band,Gender
+RCC06,Remington,Adam,1220,1983,1,01:58:51,Senior,23 to 49,Male
+RCC09,Lofthouse,Quinn,1011,2002,0.807,02:16:29,Espoir,19 to 22,Female
+RCC16,Yee,Jeremy,1012,1942,0.766,01:26:15,Grand Veteran,80 to 89,Male
+RCC08,Cairney,Amanda,1013,1934,0.576,01:03:40,Grand Veteran,80 to 89,Female
+RCC11,Brandsma,Sarah Rae,1014,1954,0.757,01:49:00,Master,50 to 69,Female
+RCC16,Binab,Jesse,1015,1945,0.798,02:36:09,Veteran,70 to 79,Male
+RCC12,Kourline,Phil,1016,1994,1,02:57:13,Senior,23 to 49,Male
+RCC13,Bygrave,Judy,1017,1989,0.862,01:17:23,Senior,23 to 49,Female
+RCC13,Bain,Anthony,1018,2001,0.969,02:22:54,Espoir,19 to 22,Male
+RCC02,Mickelberg,Cody,1019,1990,1,01:41:31,Senior,23 to 49,Male
+RCC15,Schiltroth,Oleksa,1020,2004,0.886,02:36:46,Espoir,19 to 22,Male
+RCC11,Traxler,Abraham,1021,1975,0.97,01:08:08,Senior,23 to 49,Male
+RCC15,Shaw,Stew,1022,1945,0.798,02:30:25,Veteran,70 to 79,Male
+RCC16,Brooks,Marin,1023,1970,0.822,01:50:43,Master,50 to 69,Female
+RCC10,Adomonis,Bradley,1024,1975,0.97,02:00:21,Senior,23 to 49,Male
+RCC15,Muir,Shannon,1025,1991,0.862,01:54:33,Senior,23 to 49,Female
+RCC11,Richardson,Alexander,1026,2005,0.862,01:56:57,Junior,16 to 18,Male
+RCC01,Inglis,Lawrence,1027,2006,0.857,01:49:55,Junior,16 to 18,Male
+RCC09,Caskey,David,1029,1996,1,02:29:29,Senior,23 to 49,Male
+RCC12,Baumgartner,Johannes,1030,1965,0.931,02:33:36,Master,50 to 69,Male
+RCC15,Kluge,Arpad,1031,2007,0.853,02:13:27,Junior,16 to 18,Male
+RCC02,Amundsen,Bjorn,1032,1971,0.956,02:09:37,Master,50 to 69,Male
+RCC16,Collop,Robert,1033,1980,0.988,02:18:55,Senior,23 to 49,Male
+RCC01,Bone,Warren,1034,1974,0.966,03:01:18,Senior,23 to 49,Male
+RCC10,Kennedy,Darryl,1035,2003,0.912,01:58:00,Espoir,19 to 22,Male
+RCC01,Cowling,Mike,1036,2003,0.912,01:07:56,Espoir,19 to 22,Male
+RCC16,Belisle-O'Donnell,Aidan,1037,1968,0.944,02:22:45,Master,50 to 69,Male
+RCC01,Vandenberg,Bastiaan,1038,1961,0.914,02:48:51,Master,50 to 69,Male
+RCC03,Knowlton,Brian,1039,1989,1,02:53:31,Senior,23 to 49,Male
+RCC11,Hurford,Michael,1040,1989,1,03:11:29,Senior,23 to 49,Male
+RCC09,Piller,Steve,1041,1994,1,01:32:17,Senior,23 to 49,Male
+RCC11,Louis,Vanessa,1042,1971,0.826,02:35:13,Master,50 to 69,Female
+RCC04,Kent,Dominic,1043,1963,0.923,02:55:44,Master,50 to 69,Male
+RCC16,Germaine,Paul,1044,1987,1,01:26:55,Senior,23 to 49,Male
+RCC16,Gibbs,Ryan,1046,1952,0.858,01:23:32,Veteran,70 to 79,Male
+RCC07,Stapleford,Kaden,1047,1945,0.798,02:22:53,Veteran,70 to 79,Male
+RCC07,Leonardson,Cressida,1048,1988,0.862,01:21:46,Senior,23 to 49,Female
+RCC08,Atto,Tyson,1049,1987,1,01:15:57,Senior,23 to 49,Male
+RCC13,Macdonald,Shauna,1050,1986,0.862,02:07:10,Senior,23 to 49,Female
+RCC14,Siarka,Donovan,1051,1930,0.583,01:31:58,Super Veteran,90 to 100,Male
+RCC13,Constance,Christopher,1052,1981,0.992,01:53:46,Senior,23 to 49,Male
+RCC14,Owen,Betsy,1053,1989,0.862,02:53:30,Senior,23 to 49,Female
+RCC14,Mislan,Alexina,1054,1968,0.816,01:41:49,Master,50 to 69,Female
+RCC05,Partington,Anna-Gabrielle,1055,1958,0.778,02:17:47,Master,50 to 69,Female
+RCC09,Robinson,Eric,1056,1961,0.914,02:11:39,Master,50 to 69,Male
+RCC12,Armstrong,Larry,1057,1963,0.923,02:05:34,Master,50 to 69,Male
+RCC07,Lewis,Abbey,1058,2003,0.782,02:51:26,Espoir,19 to 22,Female
+RCC09,Albertine,Nigel,1059,1999,1,01:36:57,Senior,23 to 49,Male
+RCC04,Walsh,Keegan,1060,1962,0.918,02:52:46,Master,50 to 69,Male
+RCC13,Lemiski,Blake,1061,1961,0.791,02:44:22,Master,50 to 69,Female
+RCC02,Sadesky,Philippe,1062,1961,0.914,01:52:26,Master,50 to 69,Male
+RCC16,Hughes,Sheldon,1063,1947,0.818,03:12:05,Veteran,70 to 79,Male
+RCC05,Devries,Colton,1064,1987,1,02:43:33,Senior,23 to 49,Male
+RCC12,Driscoll,Declan,1065,1975,0.97,02:14:34,Senior,23 to 49,Male
+RCC06,Enevoldsen,Francisco,1066,1990,1,01:00:17,Senior,23 to 49,Male
+RCC13,Roach,Andrew,1067,1939,0.73,02:26:04,Grand Veteran,80 to 89,Male
+RCC13,Bowe,Jenny,1068,1947,0.711,01:55:54,Veteran,70 to 79,Female
+RCC14,Clifford,Thian,1069,1984,1,02:19:28,Senior,23 to 49,Male
+RCC09,Burnside,Marina,1070,1997,0.862,02:44:50,Senior,23 to 49,Female
+RCC14,Priestley,Mel,1071,2001,0.969,01:06:57,Espoir,19 to 22,Male
+RCC14,Cummings,Matias,1072,1996,1,01:23:13,Senior,23 to 49,Male
+RCC03,Boddy,Sam,1073,1972,0.959,01:50:24,Master,50 to 69,Male
+RCC13,Brophy,Samantha,1074,1972,0.828,01:11:04,Master,50 to 69,Female
+RCC11,Rumsey,Khalil,1075,1974,0.966,02:29:09,Senior,23 to 49,Male
+RCC13,Joss,Tim,1076,2003,0.912,01:38:19,Espoir,19 to 22,Male
+RCC11,Lockerbie,Lisa,1077,1944,0.687,01:49:50,Veteran,70 to 79,Female
+RCC06,Wilkinson,Loy,1078,1998,1,02:41:15,Senior,23 to 49,Male
+RCC10,Parker,Javier,1079,2001,0.834,01:28:29,Espoir,19 to 22,Female
+RCC11,Bowles,Tanya,1080,1935,0.59,01:44:32,Grand Veteran,80 to 89,Female
+RCC11,Coxall,Preston,1081,1953,0.866,01:32:06,Veteran,70 to 79,Male
+RCC11,Elliott,Graham,1082,1937,0.702,01:05:12,Grand Veteran,80 to 89,Male
+RCC11,Falkenberg,Amit,1083,1994,1,01:22:18,Senior,23 to 49,Male
+RCC16,Tilbury,Guri,1084,1980,0.988,02:31:02,Senior,23 to 49,Male
+RCC11,Wilson,Ken,1085,1978,0.98,02:04:44,Senior,23 to 49,Male
+RCC11,Marzetti,Jim,1086,1996,1,01:15:59,Senior,23 to 49,Male
+RCC12,Schneider,Natascha,1087,2005,0.737,02:13:12,Junior,16 to 18,Female
+RCC13,Kuhn,Craig,1088,1959,0.903,01:38:07,Master,50 to 69,Male
+RCC11,Stein,Ty,1089,1950,0.843,02:34:12,Veteran,70 to 79,Male
+RCC13,Corbet,Luke,1090,1969,0.948,01:18:44,Master,50 to 69,Male
+RCC14,Stallard,Maverick,1091,1967,0.94,03:14:24,Master,50 to 69,Male
+RCC06,Voegeli,Dave,1092,1964,0.927,01:01:41,Master,50 to 69,Male
+RCC16,Erfle,Jay,1093,1967,0.94,01:42:59,Master,50 to 69,Male
+RCC02,Jepperson,Cornelius,1094,1964,0.927,03:11:36,Master,50 to 69,Male
+RCC01,Glanzig,Rob,1095,1934,0.656,02:34:33,Grand Veteran,80 to 89,Male
+RCC03,Kendell,Todd,1096,1975,0.97,02:29:18,Senior,23 to 49,Male
+RCC12,Schneider,Katharina,1097,1955,0.763,01:44:04,Master,50 to 69,Female
+RCC13,Bjolverud,Ray,1098,1957,0.891,02:32:27,Master,50 to 69,Male
+RCC13,Woodward,Darren,1099,1993,1,01:50:51,Senior,23 to 49,Male
+RCC16,Robson,Lawrence,1100,1972,0.959,01:35:41,Master,50 to 69,Male
+RCC01,Epp,Jane,1101,1992,0.862,02:43:16,Senior,23 to 49,Female
+RCC13,Bhardwaj,Reynard,1103,2000,1,02:24:33,Senior,23 to 49,Male
+RCC13,Lamb,Adrian,1104,1998,1,01:31:37,Senior,23 to 49,Male
+RCC15,Bougie,Danielle,1105,1992,0.862,01:04:15,Senior,23 to 49,Female
+RCC06,Ward,Simon,1106,1957,0.891,01:55:27,Master,50 to 69,Male
+RCC01,Penner,Ronan,1107,1977,0.977,01:44:06,Senior,23 to 49,Male
+RCC09,Hickey,Shaun,1108,1960,0.908,02:47:44,Master,50 to 69,Male
+RCC11,Dipper,Spencer,1109,1979,0.984,02:14:40,Senior,23 to 49,Male
+RCC15,Barraclough,Colby,1110,1971,0.956,01:26:51,Master,50 to 69,Male
+RCC16,Callisto,Trev,1111,2004,0.886,02:11:14,Espoir,19 to 22,Male
+RCC10,Johansson,Leydy,1112,1949,0.726,02:22:20,Veteran,70 to 79,Female
+RCC13,Rossi,Kayden,1113,1997,1,01:32:48,Senior,23 to 49,Male
+RCC13,Jackson,Evan,1114,2001,0.969,02:00:45,Espoir,19 to 22,Male
+RCC14,Walls,Heath,1115,1939,0.73,01:47:14,Grand Veteran,80 to 89,Male
+RCC05,Quinnett,Tobias,1116,1932,0.622,01:14:44,Super Veteran,90 to 100,Male
+RCC15,Bonham,Riley,1117,1931,0.603,02:34:19,Super Veteran,90 to 100,Male
+RCC12,Glendinning,Alejandro,1119,1946,0.808,01:06:45,Veteran,70 to 79,Male
+RCC10,Gustafsson,Jolande,1120,2006,0.733,02:10:47,Junior,16 to 18,Female
+RCC04,Bristow,John,1121,1983,1,02:52:03,Senior,23 to 49,Male
+RCC06,Fednya,Muhammad,1122,1996,1,01:01:06,Senior,23 to 49,Male
+RCC06,Meeres,Ramona,1123,1960,0.908,02:26:37,Master,50 to 69,Female
+RCC12,Wiebe,Albert,1124,1931,0.603,02:26:13,Super Veteran,90 to 100,Male
+RCC09,Pattison,Harrison,1125,1970,0.952,01:35:27,Master,50 to 69,Male
+RCC16,Kenny,Cameron,1126,1965,0.931,02:29:53,Master,50 to 69,Male
+RCC16,Tetrault,Andy,1127,1999,1,01:18:48,Senior,23 to 49,Male
+RCC13,Garvin,Sebastian,1128,1949,0.835,02:31:22,Veteran,70 to 79,Male
+RCC08,Cairns,Gloria,1129,2007,0.73,01:38:34,Junior,16 to 18,Female
+RCC11,Nicholson,Alex,1130,1981,0.855,02:42:35,Senior,23 to 49,Female
+RCC08,Claffey,James,1131,1998,1,02:07:12,Senior,23 to 49,Male
+RCC04,Lawrence,Niels,1132,1948,0.827,02:37:43,Veteran,70 to 79,Male
+RCC10,Romano,Cooper,1133,1952,0.858,01:51:26,Veteran,70 to 79,Male
+RCC10,Sutton,Trevor,1135,1979,0.984,02:22:43,Senior,23 to 49,Male
+RCC12,Niles,Clementine,1136,1938,0.627,02:26:36,Grand Veteran,80 to 89,Female
+RCC06,Ryan,Dean,1137,1941,0.755,01:51:01,Grand Veteran,80 to 89,Male
+RCC05,Brandrick,Emily,1138,1968,0.816,02:42:35,Master,50 to 69,Female
+RCC11,Warburton,Steven,1139,2007,0.853,02:29:40,Junior,16 to 18,Male
+RCC02,Reynolds,Jack,1140,2003,0.912,01:24:55,Espoir,19 to 22,Male
+RCC13,Poole,Thomas,1141,1968,0.944,03:09:57,Master,50 to 69,Male
+RCC02,Yarbrough,Alan,1142,1974,0.966,01:21:41,Senior,23 to 49,Male
+RCC01,Potter,Logan,1143,1980,0.988,01:28:41,Senior,23 to 49,Male
+RCC07,Holowaychuk,Daniel,1144,1982,0.996,01:42:41,Senior,23 to 49,Male
+RCC16,Wyllie,Bentley,1145,1935,0.673,02:58:03,Grand Veteran,80 to 89,Male
+RCC08,Stephens,Bartek,1146,2004,0.886,02:18:15,Espoir,19 to 22,Male
+RCC15,Whitlock,Susan,1147,2003,0.782,01:47:34,Espoir,19 to 22,Female
+RCC09,Lightfoot,Gregory,1148,2000,1,02:08:37,Senior,23 to 49,Male
+RCC16,Scheirer,Darin,1149,1939,0.73,03:15:03,Grand Veteran,80 to 89,Male
+RCC10,Christoferson,Jenaya,1151,1963,0.799,01:44:18,Master,50 to 69,Female
+RCC10,Anderberg,Margareta,1152,1966,0.809,02:31:57,Master,50 to 69,Female
+RCC12,Reimers,Lennox,1153,1934,0.656,02:12:38,Grand Veteran,80 to 89,Male
+RCC13,Griffin,Greg,1154,1947,0.818,02:28:27,Veteran,70 to 79,Male
+RCC07,Stafford,Gary,1155,1988,1,02:35:33,Senior,23 to 49,Male
+RCC01,Butts,Elizabeth,1156,1992,0.862,02:59:27,Senior,23 to 49,Female
+RCC14,Knowles,Remington,1157,2006,0.857,02:03:48,Junior,16 to 18,Male
+RCC06,Blennerhassett,Fernando,1158,1944,0.788,01:12:47,Veteran,70 to 79,Male
+RCC13,Turgeon,Jared,1159,1933,0.639,01:01:20,Super Veteran,90 to 100,Male
+RCC13,Webb,Bryce,1160,1985,1,02:59:25,Senior,23 to 49,Male
+RCC16,Welch,Zayden,1161,1987,1,02:59:38,Senior,23 to 49,Male
+RCC11,Warden,Denis,1162,1953,0.866,02:50:50,Veteran,70 to 79,Male
+RCC01,Makela,Nicole,1163,1953,0.752,01:54:32,Veteran,70 to 79,Female
+RCC04,Roberts,Zeke,1164,1953,0.866,03:00:50,Veteran,70 to 79,Male
+RCC16,Sherstan,Phillip,1165,1948,0.827,01:04:43,Veteran,70 to 79,Male
+RCC11,Ahmed,Kyle,1166,1943,0.778,02:27:36,Grand Veteran,80 to 89,Male
+RCC04,Stoner,Eduardo,1167,1955,0.879,02:04:54,Master,50 to 69,Male
+RCC05,Williams,Kellen,1168,1960,0.908,01:58:21,Master,50 to 69,Male
+RCC03,Harrison,Timothy,1169,2006,0.857,01:18:09,Junior,16 to 18,Male
+RCC16,Chan,Sucahet,1171,1975,0.97,01:18:03,Senior,23 to 49,Male
+RCC07,Shimizu,Rory,1172,1994,1,02:23:59,Senior,23 to 49,Male
+RCC16,Hulley,Justin,1173,1995,1,01:46:35,Senior,23 to 49,Male
+RCC11,Milward,Jenn,1175,1987,0.862,01:28:54,Senior,23 to 49,Female
+RCC08,Mulholland,Candace,1176,1960,0.787,02:17:28,Master,50 to 69,Female
+RCC03,Madden,Katy,1177,1931,0.531,01:35:15,Super Veteran,90 to 100,Female
+RCC13,Urban,Theo,1178,1992,1,01:51:46,Senior,23 to 49,Male
+RCC08,Thanhauser,Mark,1179,1992,1,02:06:33,Senior,23 to 49,Male
+RCC11,Vaughan,Grant,1180,1946,0.808,02:01:08,Veteran,70 to 79,Male
+RCC13,Brown,Monica,1181,1989,0.862,02:37:52,Senior,23 to 49,Female
+RCC16,Leblanc,Amabella,1182,1955,0.763,01:32:31,Master,50 to 69,Female
+RCC13,White,Peter,1183,1984,1,01:28:40,Senior,23 to 49,Male
+RCC10,Van Jaarsveldt,Melker,1184,1964,0.927,01:34:30,Master,50 to 69,Male
+RCC16,Soos,Emerson,1185,1994,1,01:30:31,Senior,23 to 49,Male
+RCC13,Jackman,Connor,1187,2007,0.853,03:02:54,Junior,16 to 18,Male
+RCC01,Bickham,Kaiden,1188,1951,0.851,03:05:45,Veteran,70 to 79,Male
+RCC16,Bunko,Jean,1189,1994,1,02:59:56,Senior,23 to 49,Male
+RCC11,Platt,Jeremiah,1190,1961,0.914,01:43:48,Master,50 to 69,Male
+RCC16,Hoyle,Darcy,1191,1955,0.879,02:42:36,Master,50 to 69,Male
+RCC16,Kitson,Theodore,1192,1936,0.688,01:14:47,Grand Veteran,80 to 89,Male
+RCC13,Wyminga,Colin,1193,1935,0.673,01:22:40,Grand Veteran,80 to 89,Male
+RCC05,Featheringham,Giovanni,1194,1988,1,03:09:57,Senior,23 to 49,Male
+RCC11,Gladysz,Bryon,1195,1953,0.866,01:52:24,Veteran,70 to 79,Male
+RCC08,Bainbridge,Emmett,1196,1987,1,02:00:46,Senior,23 to 49,Male
+RCC14,Hooson,Maxwell,1197,1953,0.866,01:57:41,Veteran,70 to 79,Male
+RCC13,Van Omerman,Travis,1198,1939,0.73,02:13:45,Grand Veteran,80 to 89,Male
+RCC13,Wishloff,Kelvin,1199,1964,0.927,03:10:49,Master,50 to 69,Male
+RCC14,Bergman,Elias,1200,1958,0.898,01:34:16,Master,50 to 69,Male
+RCC11,Proche,Felix,1201,1967,0.94,02:30:02,Master,50 to 69,Male
+RCC16,Sutherland,Patrick,1202,1993,1,02:39:12,Senior,23 to 49,Male
+RCC02,Lof,Evelyn,1203,1995,0.862,01:44:44,Senior,23 to 49,Female
+RCC05,Brenner,Isabelle,1204,1974,0.834,02:34:24,Senior,23 to 49,Female
+RCC11,Harris,Kaleb,1205,2004,0.886,01:21:51,Espoir,19 to 22,Male
+RCC10,Carlstrom,Dante,1206,1959,0.903,01:48:56,Master,50 to 69,Male
+RCC04,Walker,Russell,1207,1982,0.996,02:53:43,Senior,23 to 49,Male
+RCC16,Aardal,Rafael,1209,1935,0.673,01:05:31,Grand Veteran,80 to 89,Male
+RCC13,Ignatiuk,Maddox,1210,2006,0.857,03:14:30,Junior,16 to 18,Male
+RCC03,Manner,Amy,1211,1999,0.862,02:34:58,Senior,23 to 49,Female
+RCC03,Perry,Derek,1212,1964,0.927,02:57:50,Master,50 to 69,Male
+RCC13,Briggs,Pepper,1213,1967,0.813,02:48:26,Master,50 to 69,Female
+RCC10,Germundson,Ludvig,1214,2007,0.853,02:19:39,Junior,16 to 18,Male
+RCC13,Patel,Lukas,1215,1959,0.903,01:00:01,Master,50 to 69,Male
+RCC16,Wensel,Brendan,1216,1990,1,01:37:05,Senior,23 to 49,Male
+RCC07,Telford,Zachary,1217,1992,1,02:39:38,Senior,23 to 49,Male
+RCC16,Turnbull,Keith,1218,1985,1,02:19:54,Senior,23 to 49,Male
+RCC01,Foster,Christian,1219,1949,0.835,01:31:40,Veteran,70 to 79,Male
+RCC11,Livesey,Michelle,1010,1943,0.678,01:52:01,Grand Veteran,80 to 89,Female
+RCC08,Howard,Jeff,1221,1984,1,02:58:00,Senior,23 to 49,Male
+RCC02,Cole,Nathan,1222,1943,0.778,02:13:10,Grand Veteran,80 to 89,Male
+RCC02,Kaiser,Amir,1223,1945,0.798,01:18:57,Veteran,70 to 79,Male
+RCC09,Creighton,Jason,1224,1938,0.717,02:57:30,Grand Veteran,80 to 89,Male
+RCC02,Fraser,Kirk,1225,1951,0.851,01:24:33,Veteran,70 to 79,Male
+RCC11,Klein,Erik,1226,1947,0.818,01:55:37,Veteran,70 to 79,Male
+RCC06,Yoshimura,Kevin,1227,1957,0.891,01:26:07,Master,50 to 69,Male
+RCC09,Mercer,Emmanuelle,1228,1946,0.704,01:27:04,Veteran,70 to 79,Female
+RCC07,Fox,Ashton,1229,1939,0.73,01:56:07,Grand Veteran,80 to 89,Male
+RCC10,Beckstrand,Agneta,1231,1957,0.773,01:05:31,Master,50 to 69,Female
+RCC05,Chilvers,Sian,1232,1976,0.84,02:14:18,Senior,23 to 49,Female
+RCC12,Wieser,Mattheo,1233,2007,0.853,01:57:06,Junior,16 to 18,Male
+RCC09,Hagedorn,Richard,1234,1932,0.622,02:44:24,Super Veteran,90 to 100,Male
+RCC16,Callaghan,Omar,1235,1930,0.583,03:08:34,Super Veteran,90 to 100,Male
+RCC11,Grant,Dawson,1236,1992,1,02:04:09,Senior,23 to 49,Male
+RCC11,Tichelaar,Arthur,1237,1987,1,01:22:35,Senior,23 to 49,Male
+RCC04,Cislo,Francis,1238,1930,0.583,01:20:15,Super Veteran,90 to 100,Male
+RCC08,Duggon,Jayce,1239,1960,0.908,02:27:40,Master,50 to 69,Male
+RCC16,Manning,Charles,1240,2006,0.857,01:22:50,Junior,16 to 18,Male
+RCC03,Bourgue,Ashley,1241,1964,0.803,01:51:26,Master,50 to 69,Female
+RCC05,Brazeau,Gabby,1242,1986,0.862,02:12:56,Senior,23 to 49,Female
+RCC13,Robertson,Myles,1243,2004,0.886,02:26:32,Espoir,19 to 22,Male
+RCC09,Naylor,Kara,1244,2006,0.733,01:19:33,Junior,16 to 18,Female
+RCC11,Husband,Walter,1245,1995,1,01:05:46,Senior,23 to 49,Male
+RCC01,Dixon,Samuel,1246,1993,1,01:06:00,Senior,23 to 49,Male
+RCC14,Anderson,Jett,1247,1962,0.918,01:36:02,Master,50 to 69,Male
+RCC13,Batycky,Paxton,1248,1977,0.977,03:08:17,Senior,23 to 49,Male
+RCC06,Maclean,Kim,1249,1933,0.562,02:42:01,Super Veteran,90 to 100,Female
+RCC04,Ellis,Jeffrey,1250,1942,0.766,01:44:57,Grand Veteran,80 to 89,Male
+RCC12,McPhee,Jo-Anne,1251,2002,0.807,01:47:59,Espoir,19 to 22,Female
+RCC13,Britton,Jacob,1252,1950,0.843,01:42:48,Veteran,70 to 79,Male
+RCC02,Cabush,Shawna,1253,1998,0.862,02:25:57,Senior,23 to 49,Female
+RCC13,Pollard,Calvin,1254,1940,0.743,03:07:54,Grand Veteran,80 to 89,Male
+RCC05,Platten,Jude,1255,1950,0.843,03:07:42,Veteran,70 to 79,Male
+RCC13,Fagan,Gideon,1256,1998,1,03:02:00,Senior,23 to 49,Male
+RCC16,Bowden,Shantel,1257,1970,0.822,01:23:35,Master,50 to 69,Female
+RCC16,Green,Hendrix,1258,1991,1,01:37:31,Senior,23 to 49,Male
+RCC07,Bonin,Karol,1259,1941,0.755,02:57:38,Grand Veteran,80 to 89,Male
+RCC05,Cornelius,Vincent,1260,2004,0.886,01:17:01,Espoir,19 to 22,Male
+RCC13,Carroll,Vic,1261,1994,1,02:08:54,Senior,23 to 49,Male
+RCC16,Bastarache,Geoff,1262,1974,0.966,02:27:30,Senior,23 to 49,Male
+RCC16,Wyminga-Scott,Jonathan,1263,1955,0.879,01:32:53,Master,50 to 69,Male
+RCC13,Bolivar,Rich,1264,1941,0.755,01:29:15,Grand Veteran,80 to 89,Male
+RCC16,Lee,Mercedes,1265,1974,0.834,02:53:13,Senior,23 to 49,Female
+RCC11,Gibney,Milo,1266,1985,1,03:01:49,Senior,23 to 49,Male
+RCC11,Gillett,Charlie,1267,1954,0.872,03:06:46,Master,50 to 69,Male
+RCC13,Mckeever,Kendra,1269,2003,0.782,03:05:38,Espoir,19 to 22,Female
+RCC07,Bennett,Jayke,1270,1975,0.97,01:31:14,Senior,23 to 49,Male
+RCC04,Croner,Elliott,1271,1961,0.914,02:13:59,Junior,16 to 18,Male
+RCC11,Jepson,Oscar,1272,1947,0.818,02:21:01,Veteran,70 to 79,Male
+RCC16,English,Braxton,1273,1982,0.996,02:52:13,Senior,23 to 49,Male
+RCC01,Ballard,Finley,1274,1949,0.835,03:10:10,Veteran,70 to 79,Male
+RCC10,Loehr,Ana,1275,1936,0.603,02:49:12,Grand Veteran,80 to 89,Female
+RCC15,Twa,Jake,1276,1940,0.743,02:09:08,Grand Veteran,80 to 89,Male
+RCC13,Coates,Clayton,1277,1961,0.914,02:34:56,Master,50 to 69,Male
+RCC07,Bishop,Emmanuel,1278,1931,0.603,01:11:42,Super Veteran,90 to 100,Male
+RCC11,Cheney,Brad,1279,1930,0.583,02:34:02,Super Veteran,90 to 100,Male
+RCC11,Hewson,Carlos,1280,2003,0.912,02:04:31,Espoir,19 to 22,Male
+RCC11,Cunningham,Ben,1281,1989,1,01:19:26,Senior,23 to 49,Male
+RCC16,Reid,Hayden,1282,1943,0.778,01:53:10,Grand Veteran,80 to 89,Male
+RCC08,Wellstead,Marcus,1283,1993,1,02:48:33,Senior,23 to 49,Male
+RCC12,Yanicki,Erick,1284,1996,1,02:12:43,Senior,23 to 49,Male
+RCC04,Henry,Jasper,1285,1937,0.702,02:25:44,Grand Veteran,80 to 89,Male
+RCC14,Adamson,Jorge,1286,1979,0.984,01:39:48,Senior,23 to 49,Male
+RCC15,Bunnin,Sandra,1287,1961,0.791,02:23:24,Master,50 to 69,Female
+RCC02,Harvey,Phoenix,1288,1943,0.778,01:16:26,Grand Veteran,80 to 89,Male
+RCC16,Hearle,Silas,1289,1954,0.872,01:29:56,Master,50 to 69,Male
+RCC11,Rosenberg,Nolan,1290,1935,0.673,02:53:17,Grand Veteran,80 to 89,Male
+RCC15,Gamal,Tristan,1291,2000,1,02:00:52,Senior,23 to 49,Male
+RCC15,Campbell,Jill,1292,1958,0.778,02:24:43,Master,50 to 69,Female
+RCC13,Gates,Zander,1293,1979,0.984,02:14:30,Senior,23 to 49,Male
+RCC10,Bouet,Kimberly,1294,1997,0.862,03:12:59,Senior,23 to 49,Female
+RCC01,Macklem,Odette,1295,1974,0.834,02:50:43,Senior,23 to 49,Female
+RCC13,Aspen,Edward,1296,1958,0.898,02:01:02,Master,50 to 69,Male
+RCC13,Gibbons,Antonio,1297,1985,1,01:31:58,Senior,23 to 49,Male
+RCC13,Mills,Micah,1298,1990,1,03:08:59,Senior,23 to 49,Male
+RCC11,Zenert,Ethan,1299,1975,0.97,03:14:12,Senior,23 to 49,Male
+RCC14,Brereton,Sarah,1300,1967,0.813,02:18:25,Master,50 to 69,Female
+RCC08,Mawdsley,Stacy,1301,1982,0.858,01:56:06,Senior,23 to 49,Female
+RCC07,Westwell,Xavier,1302,1985,1,01:31:11,Senior,23 to 49,Male
+RCC12,Flaming-Grabner,Magdalena,1303,1966,0.809,02:52:52,Master,50 to 69,Female
+RCC06,Hanks,Parker,1304,1995,1,02:30:49,Senior,23 to 49,Male
+RCC13,Palamarek,Genevieve,1305,1966,0.809,02:54:12,Master,50 to 69,Female
+RCC04,Fogg,Sean,1306,1991,1,02:23:59,Senior,23 to 49,Male
+RCC15,Forsyth,Stephen,1307,1996,1,02:54:16,Senior,23 to 49,Male
+RCC07,Oprecio,Cassiopeia,1308,1948,0.719,01:37:03,Veteran,70 to 79,Female
+RCC03,Harlton,Tracy,1309,1964,0.927,02:28:35,Master,50 to 69,Male
+RCC04,Flater,Asher,1310,1961,0.914,01:12:48,Master,50 to 69,Male
+RCC15,Barnes,Joshua,1311,1968,0.944,02:05:42,Master,50 to 69,Male
+RCC06,Berry,Glenn,1312,1996,1,03:15:42,Senior,23 to 49,Male
+RCC08,Dankworth,Bridget,1313,1994,0.862,03:09:04,Senior,23 to 49,Female
+RCC06,Davison,Andres,1314,1989,1,01:18:03,Senior,23 to 49,Male
+RCC11,Formstone,Matthew,1315,1947,0.818,01:18:14,Veteran,70 to 79,Male
+RCC16,Grozelle,Erdem,1316,1985,1,01:39:34,Senior,23 to 49,Male
+RCC16,Phillips,Marc,1317,1991,1,01:33:59,Senior,23 to 49,Male
+RCC05,Feick,Nathaniel,1318,1968,0.944,02:05:30,Master,50 to 69,Male
+RCC15,Croken,Miguel,1319,1966,0.936,01:15:38,Master,50 to 69,Male
+RCC02,Cruickshank,Haakon,1320,2006,0.857,01:45:05,Junior,16 to 18,Male
+RCC02,Fernsby,Demelza,1321,1979,0.984,01:39:48,Senior,23 to 49,Female
+RCC02,Bredenberg,Ayden,1322,1967,0.94,03:01:51,Master,50 to 69,Male
